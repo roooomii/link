@@ -1,0 +1,19 @@
+/* 전체적인 스타일 */
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #FFFFFF; /* 하얀색 배경 */
+  color: #000000; /* 글자색은 검정색(기본값)으로 설정 */
+}
+
+header {
+  background-color: #0000FF; /* 파랑색 헤더 배경 */
+  padding: 20px;
+}
+
+.logo img {
+  width: 100px; /* 로고 이미지 크기 조절 */
+  height: auto;
+}
+
+/* 추가적인 스타일링은 필요에 따라 수정하실 수 있습니다 */
